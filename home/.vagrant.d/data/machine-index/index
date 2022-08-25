@@ -1,0 +1,1 @@
+{"version":1,"machines":{"656039506c504fc0a706a20602c754ef":{"local_data_path":"C:/users/ad/Homestead/.vagrant","name":"homestead","provider":"virtualbox","state":"running","vagrantfile_name":null,"vagrantfile_path":"C:/users/ad/Homestead","updated_at":null,"extra_data":{"box":{"name":"laravel/homestead","provider":"virtualbox","version":"12.2.0"}}}}}

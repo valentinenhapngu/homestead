@@ -1,0 +1,17 @@
+00:00:00.113307 VirtualBox GUI VM Selector Window 6.1.36 r152435 win.amd64 (Jul 19 2022 21:51:27) release log
+00:00:00.113311 Log opened 2022-08-25T04:01:17.650198600Z
+00:00:00.113312 Build Type: release
+00:00:00.113315 OS Product: Windows 10
+00:00:00.113316 OS Release: 10.0.17763
+00:00:00.113317 OS Service Pack: 
+00:00:00.186167 DMI Product Name: Latitude E5470
+00:00:00.191271 DMI Product Version: 
+00:00:00.191281 Firmware type: UEFI
+00:00:00.191581 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.191603 Host RAM: 16241MB (15.8GB) total, 11860MB (11.5GB) available
+00:00:00.191608 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.191609 Process ID: 9132
+00:00:00.191609 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.191783 Qt version: 5.6.2
+00:00:00.251454 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.537396 GUI: UIMediumEnumerator: Medium-enumeration finished!
